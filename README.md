@@ -17,5 +17,5 @@ Para isso o projeto possui 5 requisitos
 Os codigos do scikit-learn, streamlit e do wokwi estão na pasta source junto com o dataset utilizado. Os prints do sistema no wokwi e do serial plotter estão na pasta docs.
 
 ![screenshot](images/Plotter Temp-46 e Umi 59.png)
-![screenshot](images/Plotter Temp 26 e Umi 34.png)
+
 
