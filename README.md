@@ -1,6 +1,6 @@
 # fiapCap1fase4
 #### Não consegui fazer o fork então eu clonei o antigo repositório
-
+### Link do Youtube https://youtube.com/shorts/5jUx427E-j4?feature=share
 ### Objetivo
 
 é levar a implementação da FarmTech Solutions da Fase 3 a um novo nível de sofisticação, incorporando o uso do Scikit-learn, Streamlit, Banco de Dados e otimizações no ESP32
